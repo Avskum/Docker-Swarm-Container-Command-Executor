@@ -4,7 +4,7 @@ set -e  # Exit on error
 # set -x  # Uncomment this line to enable debugging if needed
 
 # Name of your API service
-SERVICE_NAME="ws-frm_api"
+SERVICE_NAME="put_service_name_here"
 
 # Command to execute in the container
 CONTAINER_COMMAND="curl -s google.com"
