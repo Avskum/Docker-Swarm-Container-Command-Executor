@@ -3,7 +3,7 @@
 set -e  # Exit on error
 # set -x  # Uncomment this line to enable debugging if needed
 
-# Name of your API service
+# Name of your service
 SERVICE_NAME="put_service_name_here"
 
 # Command to execute in the container
