@@ -12,4 +12,4 @@ This project provides a Bash script designed to execute commands inside an activ
 
 - Docker Swarm cluster set up and running.
 - SSH access to the Docker nodes (passwordless SSH recommended).
-- Bash shell (tested on Bash 4.x and above).
+- Terminal (haha)
